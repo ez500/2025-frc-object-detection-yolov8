@@ -1,0 +1,13 @@
+names:
+- ALGAE
+- CORAL
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: 2025-reefscape
+  url: https://universe.roboflow.com/frc-5881-yho3d/2025-reefscape/dataset/11
+  version: 11
+  workspace: frc-5881-yho3d
+test: ../test/images
+train: ../train/images
+val: ../valid/images
