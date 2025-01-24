@@ -1,0 +1,14 @@
+names:
+- Algae
+- Coral
+- Reef
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: reefscape-collation-ons10
+  url: https://universe.roboflow.com/robotics-zx0qs/reefscape-collation-ons10/dataset/2
+  version: 2
+  workspace: robotics-zx0qs
+test: ../test/images
+train: ../train/images
+val: ../valid/images
